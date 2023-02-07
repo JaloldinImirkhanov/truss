@@ -1,0 +1,787 @@
+@media (min-width: 320px) {
+  .container {
+    max-width: 300px;
+    padding: 0 10px;
+  }
+  .hero-title-1 {
+    display: none;
+  }
+  .hero-title-2 {
+    font-size: 28px;
+  }
+  .hero-text {
+    font-size: 16px;
+  }
+  .navbar {
+    display: none;
+  }
+  /* Product */
+  .main-cash {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 1fr;
+    gap: 50px;
+  }
+  .main-cash img {
+    width: 280px;
+  }
+  .main-flow span {
+    width: 8px;
+    height: 8px;
+  }
+  /* Product */
+  .main-snapshot {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 1fr;
+    gap: 50px;
+  }
+  .main-snapshot img {
+    width: 280px;
+  }
+
+  .main-snapshot h3 {
+    font-size: 22px;
+  }
+  .main-snapshot p {
+    font-size: 16px;
+  }
+  .main-flow h3 {
+    font-size: 24px;
+  }
+  .main-flow p {
+    font-size: 16px;
+  }
+  .main-flow span {
+    width: 8px;
+    height: 8px;
+  }
+  .main-features h2 {
+    font-size: 28px;
+  }
+  /*  */
+  .kpk {
+    display: none;
+  }
+  .flow-main {
+    padding-bottom: 100px;
+  }
+  .ways-main h2 {
+    font-size: 28px;
+    line-height: 30px;
+    padding-top: 50px;
+  }
+  .main-create {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(1fr);
+  }
+  .main-create img {
+    width: 280px;
+  }
+  .main-create h3 {
+    font-size: 24px;
+  }
+  .footer-botton {
+    padding-top: 0;
+  }
+  .main-create p {
+    font-size: 18px;
+  }
+  .main-making h2 {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    text-align: center;
+    color: #011931;
+  }
+  .main-making p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #3384fb;
+  }
+  .for-main h3 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 26px;
+    color: #001931;
+  }
+  .for-main p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+  }
+
+  .main-title {
+    font-size: 28px;
+  }
+  .main-img img {
+    width: 280px;
+  }
+  .main-info-3 {
+    order: 2;
+  }
+  .main-info-4 {
+    order: 1;
+  }
+  .main-info-4 h2 {
+    font-size: 28px;
+  }
+  .main-info-4 p {
+    font-size: 16px;
+  }
+  .main-info-1 {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 1fr;
+    gap: 50px;
+  }
+  .main-info-2 {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 1fr;
+    gap: 50px;
+    padding-bottom: 50px;
+  }
+  .card {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 1fr;
+  }
+  .team h2 {
+    font-size: 24px;
+  }
+  .team-title {
+    font-size: 22px;
+  }
+  .team-text {
+    font-size: 14px;
+  }
+  .card-info {
+    padding: 20px 0;
+  }
+  .brend {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 30px;
+  }
+  .brend-logo img {
+    width: 120px;
+  }
+  .trusted-brend h2 {
+    font-size: 28px;
+  }
+  .get-info h3 {
+    font-size: 22px;
+    line-height: 24px;
+    max-width: 263px;
+  }
+  .get-info p {
+    padding-top: 25px;
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .get-info a {
+    border-radius: 8px;
+    padding: 18px 46px;
+  }
+  .footer-nav {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(4, 1fr);
+    padding: 10px 20px;
+    gap: 20px;
+  }
+  .footer-img {
+    padding-top: 60px;
+    width: 74px;
+  }
+}
+@media (min-width: 425px) {
+  .container {
+    padding: 0 20px;
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .hero-title-1 {
+    display: none;
+  }
+  .hero-title-2 {
+    font-size: 36px;
+    max-width: 350px;
+  }
+  .hero-text {
+    font-size: 18px;
+  }
+  .navbar {
+    display: none;
+  }
+
+  /* Product */
+
+  .main-cash {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 1fr;
+    gap: 50px;
+  }
+  .main-cash img {
+    width: 385px;
+  }
+  .main-flow span {
+    width: 8px;
+    height: 8px;
+  }
+  .for-main h3 {
+    padding-top: 10px;
+  }
+  .main-flow h3 {
+    padding-top: 3px;
+    font-size: 22px;
+  }
+  .main-create img {
+    width: 385px;
+  }
+  .main-create {
+    padding-top: 100px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(1fr);
+    gap: 25px;
+  }
+  .footer-botton {
+    padding-top: 50px;
+  }
+  .main-create p {
+    font-size: 16px;
+  }
+  .main-create h3 {
+    font-size: 21px;
+    padding-bottom: 15px;
+  }
+  /* Product */
+  .main-snapshot {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 1fr;
+    gap: 50px;
+  }
+  .main-snapshot img {
+    width: 385px;
+  }
+  .main-features h2 {
+    font-size: 32px;
+  }
+  .main-snapshot p {
+    font-size: 14px;
+  }
+  /*  */
+  .main-making h2 {
+    font-size: 20px;
+  }
+  .main-img img {
+    width: 375px;
+  }
+  .main-info-3 {
+    order: 2;
+  }
+  .main-info-4 {
+    order: 1;
+  }
+  .main-info-4 h2 {
+    max-width: 300px;
+    font-size: 28px;
+  }
+  .main-info-4 p {
+    max-width: 300px;
+    font-size: 16px;
+  }
+  .main-info-1 {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 1fr;
+    gap: 50px;
+  }
+  .main-info-2 {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 1fr;
+    gap: 50px;
+    padding-bottom: 50px;
+  }
+  .card {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 1fr;
+  }
+  .team h2 {
+    font-size: 24px;
+  }
+  .team-title {
+    font-size: 22px;
+  }
+  .team-text {
+    font-size: 14px;
+  }
+  .card-info {
+    padding: 20px 0;
+  }
+  .brend {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 30px;
+  }
+  .brend-logo img {
+    width: 120px;
+  }
+  .trusted-brend h2 {
+    font-size: 32px;
+  }
+  .get-info h3 {
+    font-size: 22px;
+    line-height: 24px;
+    max-width: 263px;
+  }
+  .get-info p {
+    padding-top: 25px;
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .get-info a {
+    border-radius: 8px;
+    padding: 18px 46px;
+  }
+  .footer-nav {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(4, 1fr);
+    padding: 10px 20px;
+    gap: 20px;
+  }
+  .footer-img {
+    padding-top: 60px;
+    width: 74px;
+  }
+}
+@media (min-width: 768px) {
+  .hero-title-1 {
+    display: none;
+  }
+  .hero-title-2 {
+    font-size: 36px;
+    max-width: 600px;
+  }
+  .hero-text {
+    max-width: 400px;
+    font-size: 18px;
+  }
+  .navbar {
+    display: flex;
+  }
+  /* Product */
+  .main-cash {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    gap: 50px;
+  }
+
+  .main-cash img {
+    width: 400px;
+  }
+  .main-flow span {
+    width: 8px;
+    height: 8px;
+  }
+  #header-link {
+    font-size: 20px;
+  }
+  /*  */
+  .main-snapshot {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    gap: 50px;
+  }
+  .main-img img {
+    width: 735px;
+  }
+  .main-info-3 {
+    order: 2;
+  }
+  .main-info-4 {
+    order: 1;
+  }
+  .main-info-4 h2 {
+    font-size: 42px;
+    max-width: 650px;
+  }
+  .main-info-4 p {
+    max-width: 600px;
+    font-size: 18px;
+  }
+  .main-info-1 {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 1fr;
+    gap: 50px;
+  }
+  .main-info-2 {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 1fr;
+    gap: 50px;
+    padding-bottom: 50px;
+  }
+  .main-title {
+    padding-bottom: 10px;
+    max-width: 750px;
+  }
+  .main-text {
+    font-size: 18px;
+    padding-top: 10px;
+    line-height: 25px;
+    max-width: 750px;
+  }
+  .main-create img {
+    width: 385px;
+  }
+  .main-create {
+    padding-top: 100px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1fr);
+    gap: 25px;
+  }
+  .main-create p {
+    padding-top: 2px;
+  }
+  .card {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+  }
+  .team h2 {
+    font-size: 38px;
+  }
+  .team-title {
+    font-size: 22px;
+  }
+  .team-text {
+    font-size: 14px;
+  }
+  .card-info {
+    padding: 20px 0;
+  }
+  .brend {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 30px;
+  }
+  .brend-logo img {
+    width: 200px;
+  }
+  .trusted-brend h2 {
+    font-size: 38px;
+  }
+  .get-info h3 {
+    font-size: 32px;
+    line-height: 44px;
+    max-width: 663px;
+  }
+  .get-info p {
+    padding-top: 25px;
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .get-info a {
+    border-radius: 8px;
+    padding: 18px 46px;
+  }
+  .footer-nav {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    padding: 10px 20px;
+    gap: 20px;
+  }
+  .footer-img {
+    padding-top: 100px;
+    width: 74px;
+  }
+  .footer-list-2 {
+    padding-top: 100px;
+  }
+  .footer-icon {
+    display: block;
+  }
+}
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+    padding: 0 20px;
+  }
+  .hero-title-2 {
+    font-size: 46px;
+    max-width: 100%;
+  }
+  .hero-text {
+    font-size: 18px;
+  }
+  /*  */
+
+  .main-cash {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    gap: 100px;
+  }
+  .main-cash img {
+    width: 470px;
+  }
+  .main-flow span {
+    width: 8px;
+    height: 8px;
+  }
+  /*  */
+  .main-features h2 {
+    font-size: 38px;
+  }
+  .main-snapshot {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    gap: 50px;
+  }
+  .main-snapshot img {
+    width: 500px;
+  }
+  .main-create img {
+    width: 500px;
+  }
+  .main-snapshot h3 {
+    font-size: 32px;
+  }
+  .main-snapshot p {
+    font-size: 20px;
+  }
+  .snapshot-title {
+    max-width: 500px;
+  }
+  .for-main h3 {
+    font-size: 40px;
+    padding-bottom: 20px;
+  }
+  .for-main p {
+    font-size: 20px;
+    max-width: 400px;
+  }
+  .main-making h2 {
+    font-size: 38px;
+    max-width: 900px;
+    line-height: 50px;
+  }
+  .main-making p {
+    padding-bottom: 100px;
+    font-size: 18px;
+  }
+  /*  */
+  .for-main h3 {
+    padding-top: 80px;
+  }
+  .main-img img {
+    width: 500px;
+  }
+  .main-info-3 {
+    order: 1;
+  }
+  .main-info-4 {
+    order: 2;
+  }
+  .main-info-4 h2 {
+    font-size: 36px;
+  }
+  .main-info-4 p {
+    font-size: 16px;
+    max-width: 400px;
+  }
+  .main-info-1 {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    gap: 120px;
+  }
+  .main-info-2 {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    gap: 120px;
+    padding-bottom: 50px;
+  }
+  .main-title {
+    padding-bottom: 10px;
+    max-width: 550px;
+  }
+  .main-text {
+    font-size: 20px;
+    padding-top: 10px;
+    line-height: 25px;
+    max-width: 450px;
+  }
+  .card {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+  }
+  .team h2 {
+    font-size: 32px;
+  }
+  .team-title {
+    font-size: 22px;
+  }
+  .team-text {
+    font-size: 14px;
+  }
+  .card-info {
+    padding: 20px 0;
+  }
+  .brend {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    gap: 30px;
+  }
+  .brend-logo img {
+    width: 200px;
+  }
+  .get-info h3 {
+    font-size: 38px;
+    line-height: 44px;
+    max-width: 663px;
+  }
+  .get-info p {
+    padding-top: 25px;
+    font-size: 24px;
+    line-height: 22px;
+  }
+  .get-info a {
+    border-radius: 8px;
+    padding: 18px 46px;
+  }
+  .footer-nav {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    padding: 10px 20px;
+    gap: 100px;
+  }
+  .footer-img {
+    padding-top: 100px;
+    width: 74px;
+  }
+  .footer-list-2 {
+    padding-top: 100px;
+  }
+  .footer-icon {
+    display: flex;
+  }
+  .footer-list {
+    padding: 0 150px;
+  }
+}
+@media (min-width: 1440px) {
+  .container {
+    max-width: 1440px;
+    padding: 0 20;
+  }
+  .main-features {
+    padding-bottom: 300px;
+  }
+  .kpk {
+    display: flex;
+    left: 70px;
+  }
+  .ways-main {
+    padding-bottom: 100px;
+  }
+  .ways-main h2 {
+    font-size: 38px;
+  }
+  .ways-main p {
+    font-size: 24px;
+  }
+  .main-create h3 {
+    font-size: 32px;
+    max-width: 600px;
+  }
+  .main-create img {
+    width: 680px;
+  }
+  .main-create p {
+    padding-top: 20px;
+    font-size: 20px;
+    max-width: 500px;
+  }
+  .main-flow h3 {
+    font-size: 28px;
+  }
+  .main-img img {
+    width: 700px;
+  }
+  .main-snapshot img {
+    width: 700px;
+  }
+  .main-info-4 p {
+    padding-top: 38px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .main-text {
+    max-width: 450px;
+    padding-top: 38px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+  }
+  /*  */
+  .main-cash {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    gap: 100px;
+  }
+  .main-cash img {
+    width: 770px;
+  }
+  .cash-main img {
+    width: 600px;
+  }
+  .snapshot-title {
+    max-width: 420px;
+  }
+}
