@@ -465,3 +465,244 @@
   color: #fff;
   padding-bottom: 50px;
 }
+/*  */
+.main-see-your {
+  align-items: center;
+  padding-top: 119px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(1fr);
+  gap: 83px;
+}
+.see-your-title h3 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 54px;
+  color: #000000;
+  max-width: 400px;
+  padding-bottom: 32px;
+}
+.see-your-title span {
+  color: #3384fb;
+}
+.see-your-title p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #000000;
+  max-width: 400px;
+}
+.main-schedule {
+  padding-top: 170px;
+  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(1fr);
+  gap: 80px;
+  padding-bottom: 120px;
+}
+.main-schedule h3 {
+  padding-bottom: 24px;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 54px;
+  color: #000000;
+}
+.main-schedule p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #000000;
+  max-width: 450px;
+  padding-bottom: 48px;
+}
+.schedule-link {
+  background: #3384fb;
+  color: #fff;
+  text-decoration: none;
+  padding: 22px 78px;
+  border-radius: 8px;
+}
+
+/*  */
+.hero-title-4 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 54px;
+  text-align: center;
+  color: #091832;
+  max-width: 700px;
+}
+.hero-title-5 {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  letter-spacing: 0.5em;
+  color: #091832;
+  padding-bottom: 17px;
+}
+.operators {
+  padding: 67px;
+}
+.main-operators {
+  gap: 31px;
+  justify-content: center;
+  background: #edf2f7;
+  border-radius: 16px;
+  max-width: 950px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px 10px;
+}
+.operators-1 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  color: #3384fb;
+  padding: 38px 160px;
+  background: #ffffff;
+  box-shadow: 0px 3px 23px rgba(0, 0, 0, 0.161);
+  border-radius: 13px;
+}
+.operators-2 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  color: #091832;
+  padding: 38px 10px;
+}
+.main-card-1 {
+  padding: 15px 25px;
+  max-width: 450px;
+  background: #ffffff;
+  box-shadow: 0px 3px 23px rgba(0, 0, 0, 0.161);
+  border-radius: 16px;
+}
+.main-card-2 {
+  padding: 30px 40px;
+  max-width: 450px;
+  background: #091832;
+  border-radius: 16px;
+}
+.future-info {
+  background: #edf2f7;
+  border-radius: 9px;
+  padding: 35px 20px;
+  margin-top: 73px;
+}
+.future-info h4 {
+  padding-bottom: 21px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  color: #091832;
+}
+.main-card-1-text {
+  padding-bottom: 74px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  color: #091832;
+}
+.demand {
+  padding-bottom: 10px;
+  gap: 11px;
+}
+.main-card-1 h2 {
+  padding-top: 45px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 35px;
+  color: #091832;
+}
+.main-card-1 h3 {
+  padding-top: 38px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 26px;
+  text-decoration-line: underline;
+  color: #3384fb;
+}
+.main-card-1 h5 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #091832;
+  padding-top: 102px;
+}
+.main-card-1 p {
+  padding-top: 7px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #091832;
+}
+.main-card-1 a {
+  margin-bottom: 73px;
+  padding: 22px 95px;
+  background: #3384fb;
+  text-decoration: none;
+  border-radius: 8px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+}
+.main-card-2 h2 {
+  padding-top: 45px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 35px;
+  color: #ffffff;
+}
+.main-card-2 h3 {
+  padding-top: 38px;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 72px;
+  color: #ffffff;
+}
+.seat {
+  padding-top: 70px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+}
+.main-card-2 h5 {
+  padding-top: 60px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ffffff;
+}
+.main-card-1-text {
+  padding-top: 7px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #fff;
+}
+.main-card-2 a {
+  margin-bottom: 73px;
+  padding: 22px 95px;
+  background: #3384fb;
+  text-decoration: none;
+  border-radius: 8px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+}
+.info-future p {
+  color: #091832;
+}
+.main-card {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding-bottom: 138px;
+}
