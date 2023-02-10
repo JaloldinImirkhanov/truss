@@ -10,6 +10,9 @@
 .absolute {
   position: absolute;
 }
+a {
+  text-decoration: none;
+}
 .header {
   justify-content: space-between;
   background: linear-gradient(105.36deg, #faeddd -13.75%, #dbf0fb 104.79%);
@@ -138,9 +141,10 @@
   text-align: center;
 }
 .team-title {
+  padding-top: 91px;
+  font-size: 48px;
+  line-height: 54px;
   font-weight: 700;
-  font-size: 24px;
-  line-height: 26px;
   text-align: center;
   color: #ffffff;
 }
@@ -900,7 +904,7 @@
 
 .based {
   position: absolute;
-  top: 650px;
+  top: 760px;
   background: linear-gradient(118.88deg, #faeddd 8.32%, #dbf0fb 66.32%);
   width: 1200px;
   border-radius: 20px;
@@ -996,6 +1000,7 @@
   top: 700px;
   height: 491px;
 }
+/*  */
 .hero-card {
   padding-top: 116px;
   display: grid;
@@ -1011,4 +1016,17 @@
 }
 .hero-card-box h5 {
   padding-top: 10px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+}
+.future {
+  display: flex;
+  gap: 14px;
+  padding-top: 24px;
+}
+.prise-title {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 54px;
 }
