@@ -10,9 +10,9 @@
 .absolute {
   position: absolute;
 }
-a {
+/* a {
   text-decoration: none;
-}
+}  */
 .header {
   justify-content: space-between;
   background: linear-gradient(105.36deg, #faeddd -13.75%, #dbf0fb 104.79%);
@@ -793,16 +793,6 @@ a {
   grid-gap: 280px;
 }
 
-.fund {
-  position: relative;
-}
-
-.fun-img {
-  position: absolute;
-  top: 240px;
-  left: -150px;
-}
-
 .columbia {
   margin-top: 91px;
   background: #fafafc;
@@ -1001,18 +991,14 @@ a {
   height: 491px;
 }
 /*  */
-.hero-card {
-  padding-top: 116px;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 10px;
-}
+
 .hero-card-box {
   padding: 20px 20px;
   background: #ffffff;
   border-radius: 16px;
   width: 100%;
   height: 110px;
+  align-items: center;
 }
 .hero-card-box h5 {
   padding-top: 10px;
