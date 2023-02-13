@@ -892,38 +892,6 @@
   left: -60px;
 }
 
-.based {
-  position: absolute;
-  top: 760px;
-  background: linear-gradient(118.88deg, #faeddd 8.32%, #dbf0fb 66.32%);
-  width: 1200px;
-  border-radius: 20px;
-}
-
-.based-left {
-  padding-left: 70px;
-}
-
-.based-card {
-  padding-top: 40px;
-  display: flex;
-  justify-content: space-between;
-}
-
-.based-svg {
-  display: flex;
-  align-items: center;
-  gap: 11px;
-  padding-top: 10px;
-}
-
-.based-text {
-  font-weight: 700;
-  font-size: 20px;
-  line-height: 28px;
-  color: #091832;
-}
-
 .future p {
   font-weight: 400;
   font-size: 16px;
